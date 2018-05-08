@@ -1,0 +1,22 @@
+{
+  "name": "ProjectOne",
+  "homepage": "https://github.com/kiro96/Proyecto",
+  "authors": [
+    "kiro96 <willykiroaries96@gmail.com>"
+  ],
+  "description": "a basic bootstrap 4 project",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "fontawesome": "^5.0.12",
+    "jquery": "^3.3.1"
+  }
+}
